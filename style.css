@@ -1,33 +1,4 @@
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Montserrat', sans-serif;
   margin: 3vw;
-  background-image: url("https://cdn.glitch.com/0f89b31a-c048-42b0-b06f-8160085c9a74%2Fgiphy%5B1%5D.gif?1543540350418");
-  background-repeat: repeat;
-  color: white;
-  
-}
-
-h1 {
-  color: red;
-  font-family: 'Amatic SC', cursive;
-  background-color: black;
-}
-
-a {
-  color: white;
-}
-
-a:hover {
-  color: pink;
-}
-
-.main {
-  display: flex;
-  justify-content: space-around;
-  height: 70vh;
-}
-
-.left, .right{
-  width: 46vw;
-  background-color: black;
 }
