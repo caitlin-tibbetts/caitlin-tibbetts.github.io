@@ -316,23 +316,23 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #000000;
+		color: #0206b7;
 	}
 
 	a {
-		color: #000000;
+		color: #0206b7;
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #000136;
 		}
 
 	strong, b {
-		color: #000000;
+		color: #0206b7;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #0206b7;
 	}
 
 	blockquote {
