@@ -153,7 +153,7 @@ input, select, textarea {
 
 	body {
 		background-color: #ffffff;
-		color: #0206b7;
+		color: black;
 	}
 
 	body, input, select, textarea {
@@ -313,26 +313,6 @@ input, select, textarea {
 			font-size: 1rem;
 		}
 
-	}
-
-	input, select, textarea {
-		color: #0206b7;
-	}
-
-	a {
-		color: #0206b7;
-	}
-
-		a:hover {
-			color: #000136;
-		}
-
-	strong, b {
-		color: #0206b7;
-	}
-
-	h1, h2, h3, h4, h5, h6 {
-		color: #0206b7;
 	}
 
 	blockquote {
@@ -8584,6 +8564,10 @@ input, select, textarea {
 
 		#wrapper > .color7 {
 			background-color: #6ba78c;
+		}
+
+		#wrapper > .color8 {
+			background-color: #e55934;
 		}
 
 		#wrapper.divided > * {
